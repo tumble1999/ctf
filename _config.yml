@@ -1,0 +1,63 @@
+title: Creators.TF
+description: "ok"
+#url: //CreatorsTF.github.io
+
+#repository: CreatorsTF/CreatorsTF.github.io
+
+permalink: pretty
+production: true
+safe: true
+
+# the format ctf seem to use in posts
+date-format: "%B %d, %Y %k:%M"
+
+plugins:
+    - jekyll-mentions
+    - jemoji
+    - jekyll-redirect-from
+    - jekyll-sitemap
+    - jekyll-feed
+    - jekyll-seo-tag
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+kramdown:
+    input: GFM
+    auto_ids: false
+
+collections:
+    posts:
+        output: true
+    updates:
+        output: true
+    promos:
+        output: true
+
+defaults:
+    - scope:
+          path: ""
+      values:
+          layout: page
+    - scope:
+          path: ""
+          type: blog
+      values:
+          layout: post
+    - scope:
+          path: ""
+          type: update
+      values:
+          layout: post
+    - scope:
+          path: ""
+          type: promo
+      values:
+          layout: null
+
+exclude:
+    - /reference
+    - Gemfile
+    - Gemfile.lock
+    # - README.md

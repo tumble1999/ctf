@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="250"
+   height="250"
+   viewBox="0 0 66.145831 66.145835"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="cyoa_sniper_icon.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="219.52024"
+     inkscape:cy="120.20567"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-230.85414)">
+    <g
+       inkscape:label="Camada 1"
+       id="layer1-6"
+       transform="matrix(1.246458,0,0,1.246458,-8.1510865,-65.046942)"
+       style="stroke:#c46525;stroke-opacity:1">
+      <g
+         id="g1487-4"
+         style="fill:none;stroke:#c46525;stroke-opacity:1">
+        <circle
+           style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.11667;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path23-9"
+           cx="33.072918"
+           cy="263.92706"
+           r="24.048475" />
+        <circle
+           style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.85208;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path23-0-1"
+           cx="33.072918"
+           cy="263.92706"
+           r="10.014797" />
+      </g>
+      <g
+         id="g1483-1"
+         style="fill:#ffffff;stroke:#c46525;stroke-opacity:1">
+        <rect
+           style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.842504;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4548-8"
+           width="46.806999"
+           height="2.5"
+           x="9.6694174"
+           y="262.67706"
+           rx="4.2847453e-16" />
+        <rect
+           style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.842504;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4548-0-3"
+           width="46.806999"
+           height="2.5"
+           x="240.52356"
+           y="-34.322918"
+           rx="4.284744e-16"
+           transform="rotate(90)" />
+      </g>
+    </g>
+  </g>
+</svg>

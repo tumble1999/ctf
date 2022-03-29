@@ -1,0 +1,12 @@
+{
+    "Name": "G-Man Announcer",
+    "Groups": [{
+        "Files": [
+            "*.vpk"
+        ],
+        "Directory": {
+            "local": "Path_Mod/custom/gman_announcer",
+            "remote": "custom"
+        }
+    }]
+}
