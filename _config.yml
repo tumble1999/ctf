@@ -27,37 +27,18 @@ kramdown:
     input: GFM
     auto_ids: false
 
-collections:
-    posts:
-        output: true
-    updates:
-        output: true
-    promos:
-        output: true
-
 defaults:
     - scope:
           path: ""
       values:
           layout: page
-    - scope:
-          path: ""
-          type: blog
-      values:
-          layout: post
-    - scope:
-          path: ""
-          type: update
-      values:
-          layout: post
-    - scope:
-          path: ""
-          type: promo
-      values:
-          layout: null
+
+collections:
+    posts:
+        output: true
 
 exclude:
     - /reference
     - Gemfile
     - Gemfile.lock
-    # - README.md
+    - README.md
