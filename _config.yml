@@ -35,10 +35,13 @@ defaults:
           path: ""
       values:
           layout: page
-
-collections:
-    posts:
-        output: true
+    - scope:
+          path: ""
+          type: posts
+      values:
+          layout: post
+          sidebar: true
+          permalink: /posts/:categories/:slug/
 
 exclude:
     - /reference
